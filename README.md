@@ -17,3 +17,9 @@ This project is a simple implementation of the classic "Rock, Paper, Scissors" g
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/vitalii-khrypko/Rock-Paper-Scissors.git
+2. Open the index.html file in your browser.
+
+No additional dependencies or configuration are needed, so you can run the project directly in your browser.
+
+## Contributors
+**Vitalii Khrypko** - Project author.
